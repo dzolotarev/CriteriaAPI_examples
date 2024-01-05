@@ -63,8 +63,6 @@ public class Main {
 //            Transaction transaction = sessionFactory.beginTransaction();
 //            sessionFactory.createQuery(criteriaUpdate).executeUpdate();
 //            transaction.commit();
-
-
         }
     }
 }
